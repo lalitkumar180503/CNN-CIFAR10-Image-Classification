@@ -6,7 +6,7 @@ This project implements a Convolutional Neural Network (CNN) using PyTorch to cl
 
 ## Dataset
 
-CIFAR-10 contains 60,000 color images of size 32×32 in 10 classes.
+CIFAR-10 contains 50,000 color images of size 32×32 in 10 classes.
 
 ## Model Architecture
 
